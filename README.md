@@ -60,10 +60,11 @@ git clone --depth 1 https://github.com/angularclass/angular2-webpack-starter.git
 cd angular2-webpack-starter
 
 # install the repo with npm
-npm install
 
 # start the server
 npm start
+
+# -- OR --
 
 # use Hot Module Replacement
 npm run server:dev:hmr
